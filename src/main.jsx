@@ -7,7 +7,7 @@ import CssBaseline from '@mui/material/CssBaseline'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <CssBaseline/>
+    <CssBaselgit branch -M mainine/>
     <App />
   </React.StrictMode>,
 )
